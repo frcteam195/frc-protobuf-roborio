@@ -1,0 +1,3 @@
+[submodule "buildenv"]
+	path = buildenv
+	url = https://github.com/frcteam195/roborio-native-build-env

@@ -1,0 +1,10 @@
+Package: frc2021-libzmq-4
+Version: 4.3.4
+Description: FRC libzmq Library
+Section: devel
+Priority: optional
+Maintainer: FRC Team 195 <robert.a.hilton.jr@gmail.com>
+License: GPL
+Architecture: cortexa9-vfpv3
+OE: frc2021-libzmq-4
+Homepage: https://zeromq.org/

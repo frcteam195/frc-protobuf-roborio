@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#if [ -x /usr/sbin/setcap ]; then /usr/sbin/setcap cap_sys_nice+eip /usr/local/frc/JRE/bin/java ; fi
+
+#echo /usr/local/frc/JRE/lib/jli > /etc/ld.so.conf.d/zeromq_libs.conf
+
+if [ -x /sbin/ldconfig ]; then /sbin/ldconfig ; fi
